@@ -10,10 +10,6 @@
 <div align="center">
  
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
-
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
  
@@ -33,7 +29,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=laravel,javascript,php,mongodb,c,java,mysql" /><br>
 </div>
 
 <br/>
